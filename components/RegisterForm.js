@@ -18,7 +18,7 @@ const RegisterForm = () => {
         <TextField id="standard-basic" label="Password" fullWidth />
       </div>
       <Button variant="contained" color="primary" type="submit">
-        Login
+        Register
       </Button>
     </form>
   );

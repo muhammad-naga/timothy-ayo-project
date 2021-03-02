@@ -3,6 +3,13 @@
   color: #fff;
   padding: 10px 0;
 }
+
+.wrapper .content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .wrapper a {
   margin: 0 10px
 }
